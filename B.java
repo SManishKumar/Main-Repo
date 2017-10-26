@@ -3,5 +3,6 @@ public static void main(String[] args)
 {
 		System.out.println("Welcome to Git");
 		System.out.println("Tester is Working");
+		System.out.println("Welcome to Git1.0");
 	}
 	}
